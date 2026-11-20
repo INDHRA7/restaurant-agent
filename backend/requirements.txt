@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+langchain
+langgraph
+langchain-groq
+langgraph-checkpoint-postgres
+sqlalchemy
+alembic
+psycopg[binary]
+pydantic-settings
+python-dotenv
+PyJWT[crypto]
+pwdlib[argon2]
+httpx
+tenacity
